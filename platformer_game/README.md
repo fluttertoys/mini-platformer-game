@@ -1,3 +1,5 @@
+[![Flutter CI](https://github.com/fluttertoys/mini-platformer-game/actions/workflows/flutter-ci.yml/badge.svg?branch=main)](https://github.com/fluttertoys/mini-platformer-game/actions/workflows/flutter-ci.yml)
+
 # platformer_game
 
 A new Flutter project.
